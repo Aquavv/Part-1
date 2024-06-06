@@ -1,0 +1,16 @@
+
+
+
+.but{
+    background-color: white !important;
+    border-radius: 0 !important;
+    border: var(--bs-btn-border-width) solid black !important;
+    width: 130px;
+    height: 45px;
+}
+
+.b01{
+    height: 550px;
+    background-color: rgb(208, 208, 208);
+    border: solid 1px black;
+}
